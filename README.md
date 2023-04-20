@@ -1,4 +1,4 @@
-# summary_app
+# Summary App
 Problem statement:
 Create an app which takes the name of a book as input. It then generates a 500 word summary of the book using Open AI API.
 
